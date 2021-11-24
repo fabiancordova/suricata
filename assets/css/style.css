@@ -1,0 +1,35 @@
+/* Tipografías: Open Sans (sacar desde Google Fonts).
+Weight: Open Sans Regular (400).
+        Open Sans Bold (700).
+Colores:  #212529;
+          #fff o var(--white);
+          #e83e8c o var(--pink);
+_         #17a2b8 o var(--info);
+Íconos (Font Awesome):
+          cc-visa.
+          cc-mastercard.
+          cc-amex.
+          cc-diners-club.
+          cc-paypal.
+          cc-discover.
+ */
+
+body {
+font-family: 'Open Sans', sansserif;
+}
+
+.colorRosa {
+  background-color: #e83e8c !important;
+}
+.card-title {
+  text-align: center;
+}
+.card {
+  width: 80%;
+}
+.imagen {
+  width: 10rem;
+}
+.pie_suricata {
+  width: 5rem;
+}
